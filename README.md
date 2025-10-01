@@ -1,5 +1,5 @@
 ## Hey there!
 
-I'm also known as Jason
+Checkout more about me here: https://jason.411s.ca/home
 
 ![](https://komarev.com/ghpvc/?username=pekachoo)
