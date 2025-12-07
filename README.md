@@ -20,8 +20,8 @@ robotics enthusiast</code>
 ### 🔗 <code>connect with me</code>
 
 <p align="left">
-  <a href="https://x.com/jliu6162" target="_blank">🐦 twitter</a><br>
-  <a href="https://www.linkedin.com/in/jason-liu-/" target="_blank">💼 linkedin</a>
+  <a href="https://x.com/jliu6162" target="_blank">twitter</a><br>
+  <a href="[https://www.linkedin.com/in/jason-liu-/](https://www.linkedin.com/in/jason-liu-646b30273/)" target="_blank">linkedin</a>
 </p>
 
 ---
