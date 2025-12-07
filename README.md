@@ -1,11 +1,11 @@
 <h1 align="center"><code>Hey there! I'm Jason</code></h1>
 
 <pre align="center">
-<code>cs @ uwaterloo
-finalist @ hack the north
-1st @ hack the valley
-1st @ hack the 6ix
-robotics enthusiast</code>
+<code>- cs @ uwaterloo
+- finalist @ hack the north
+- 1st @ hack the valley
+- 1st @ hack the 6ix
+- robotics enthusiast</code>
 </pre>
 
 ---
