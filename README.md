@@ -17,7 +17,7 @@
 
 ---
 
-### 🔗 <code>connect with me</code>
+### 🔗 <code>connect with me!</code>
 
 <p align="left">
   <a href="https://x.com/jliu6162" target="_blank">twitter</a><br>
